@@ -1,0 +1,5 @@
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Xml - Perl\XElement - Example\bin\Debug\XElement - Example.exe.config
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Xml - Perl\XElement - Example\bin\Debug\XElement - Example.exe
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Xml - Perl\XElement - Example\bin\Debug\XElement - Example.pdb
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Xml - Perl\XElement - Example\obj\Debug\XElement - Example.exe
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Xml - Perl\XElement - Example\obj\Debug\XElement - Example.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\Dynamic Example\bin\Debug\Dynamic Example.exe.config
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Dynamic Example\bin\Debug\Dynamic Example.exe.config
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Dynamic Example\bin\Debug\Dynamic Example.exe
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Dynamic Example\bin\Debug\Dynamic Example.pdb
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Dynamic Example\obj\Debug\Dynamic Example.exe
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Dynamic Example\obj\Debug\Dynamic Example.pdb

@@ -1,0 +1,5 @@
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Fixed Pointer\bin\Debug\Fixed Pointer.exe.config
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Fixed Pointer\bin\Debug\Fixed Pointer.exe
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Fixed Pointer\bin\Debug\Fixed Pointer.pdb
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Fixed Pointer\obj\Debug\Fixed Pointer.exe
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Fixed Pointer\obj\Debug\Fixed Pointer.pdb

@@ -1,0 +1,17 @@
+C:\Users\Ivandrofly-LK\Documents\Visual Studio 2012\Projects\C# - Tutorials\C# - DotNetPerls Examples\Xml - Perl\XmlDocument - Example\bin\Debug\XmlDocument - Example.exe.config
+C:\Users\Ivandrofly-LK\Documents\Visual Studio 2012\Projects\C# - Tutorials\C# - DotNetPerls Examples\Xml - Perl\XmlDocument - Example\bin\Debug\XmlDocument - Example.exe
+C:\Users\Ivandrofly-LK\Documents\Visual Studio 2012\Projects\C# - Tutorials\C# - DotNetPerls Examples\Xml - Perl\XmlDocument - Example\bin\Debug\XmlDocument - Example.pdb
+C:\Users\Ivandrofly-LK\Documents\Visual Studio 2012\Projects\C# - Tutorials\C# - DotNetPerls Examples\Xml - Perl\XmlDocument - Example\obj\Debug\XmlDocument - Example.exe
+C:\Users\Ivandrofly-LK\Documents\Visual Studio 2012\Projects\C# - Tutorials\C# - DotNetPerls Examples\Xml - Perl\XmlDocument - Example\obj\Debug\XmlDocument - Example.pdb
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\Xml - Perl\XmlDocument - Example\bin\Debug\XmlDocument - Example.exe.config
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\Xml - Perl\XmlDocument - Example\bin\Debug\XmlDocument - Example.exe
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\Xml - Perl\XmlDocument - Example\bin\Debug\XmlDocument - Example.pdb
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\Xml - Perl\XmlDocument - Example\obj\Debug\XmlDocument - Example.csprojResolveAssemblyReference.cache
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\Xml - Perl\XmlDocument - Example\obj\Debug\XmlDocument - Example.exe
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\Xml - Perl\XmlDocument - Example\obj\Debug\XmlDocument - Example.pdb
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Xml - Perl\XmlDocument - Example\bin\Debug\XmlDocument - Example.exe.config
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Xml - Perl\XmlDocument - Example\bin\Debug\XmlDocument - Example.exe
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Xml - Perl\XmlDocument - Example\bin\Debug\XmlDocument - Example.pdb
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Xml - Perl\XmlDocument - Example\obj\Debug\XmlDocument - Example.csprojResolveAssemblyReference.cache
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Xml - Perl\XmlDocument - Example\obj\Debug\XmlDocument - Example.exe
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Xml - Perl\XmlDocument - Example\obj\Debug\XmlDocument - Example.pdb

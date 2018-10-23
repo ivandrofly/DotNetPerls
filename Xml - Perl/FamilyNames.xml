@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Family>
+  <Childs>
+    
+    <Girls>
+      <Girl name="Heidy"/>
+      <Girl name ="Djyba"/>
+    </Girls>
+    
+    <Boys>
+      <Boy name="Ivandro"/>
+      <Boy name="Ivanildo"/>
+    </Boys>
+    
+  </Childs>
+</Family>
+
+<!--<?xml version="1.0" encoding="utf-8" ?>
+<perls>
+  <article name="backgroundworker">
+    Example text.
+  </article>
+  <article name="threadpool">
+    More text.
+  </article>
+  <article></article>
+  <article>Final text.</article>
+</perls>-->

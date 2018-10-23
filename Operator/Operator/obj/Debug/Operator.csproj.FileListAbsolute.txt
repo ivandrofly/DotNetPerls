@@ -1,0 +1,7 @@
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\Operator\Operator\bin\Debug\Operator.exe.config
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Operator\Operator\bin\Debug\Operator.exe.config
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Operator\Operator\bin\Debug\Operator.exe
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Operator\Operator\bin\Debug\Operator.pdb
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Operator\Operator\obj\Debug\Operator.csprojResolveAssemblyReference.cache
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Operator\Operator\obj\Debug\Operator.exe
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Operator\Operator\obj\Debug\Operator.pdb

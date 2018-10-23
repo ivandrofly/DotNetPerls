@@ -1,0 +1,5 @@
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Operators Examples\Ternary Operator\bin\Debug\Ternary Operator.exe.config
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Operators Examples\Ternary Operator\bin\Debug\Ternary Operator.exe
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Operators Examples\Ternary Operator\bin\Debug\Ternary Operator.pdb
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Operators Examples\Ternary Operator\obj\Debug\Ternary Operator.exe
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Operators Examples\Ternary Operator\obj\Debug\Ternary Operator.pdb

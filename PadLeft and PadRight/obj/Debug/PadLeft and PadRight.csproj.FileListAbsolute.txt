@@ -1,0 +1,12 @@
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\PadLeft and PadRight\bin\Debug\PadLeft and PadRight.exe.config
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\PadLeft and PadRight\bin\Debug\PadLeft and PadRight.exe
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\PadLeft and PadRight\bin\Debug\PadLeft and PadRight.pdb
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\PadLeft and PadRight\obj\Debug\PadLeft and PadRight.csprojResolveAssemblyReference.cache
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\PadLeft and PadRight\obj\Debug\PadLeft and PadRight.exe
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\PadLeft and PadRight\obj\Debug\PadLeft and PadRight.pdb
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\PadLeft and PadRight\bin\Debug\PadLeft and PadRight.exe.config
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\PadLeft and PadRight\bin\Debug\PadLeft and PadRight.exe
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\PadLeft and PadRight\bin\Debug\PadLeft and PadRight.pdb
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\PadLeft and PadRight\obj\Debug\PadLeft and PadRight.csprojResolveAssemblyReference.cache
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\PadLeft and PadRight\obj\Debug\PadLeft and PadRight.exe
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\PadLeft and PadRight\obj\Debug\PadLeft and PadRight.pdb

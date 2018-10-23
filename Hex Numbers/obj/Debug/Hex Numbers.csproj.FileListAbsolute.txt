@@ -1,0 +1,5 @@
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Hex Numbers\bin\Debug\Hex Numbers.exe
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Hex Numbers\bin\Debug\Hex Numbers.pdb
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Hex Numbers\obj\Debug\Hex Numbers.csprojResolveAssemblyReference.cache
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Hex Numbers\obj\Debug\Hex Numbers.exe
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Hex Numbers\obj\Debug\Hex Numbers.pdb

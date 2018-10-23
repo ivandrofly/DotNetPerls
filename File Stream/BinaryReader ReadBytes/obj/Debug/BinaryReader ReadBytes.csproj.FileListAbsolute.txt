@@ -1,0 +1,5 @@
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\File Stream\BinaryReader ReadBytes\bin\Debug\BinaryReader ReadBytes.exe.config
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\File Stream\BinaryReader ReadBytes\bin\Debug\BinaryReader ReadBytes.exe
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\File Stream\BinaryReader ReadBytes\bin\Debug\BinaryReader ReadBytes.pdb
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\File Stream\BinaryReader ReadBytes\obj\Debug\BinaryReader ReadBytes.exe
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\File Stream\BinaryReader ReadBytes\obj\Debug\BinaryReader ReadBytes.pdb

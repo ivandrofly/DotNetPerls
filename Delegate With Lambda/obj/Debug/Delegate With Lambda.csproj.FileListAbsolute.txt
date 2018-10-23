@@ -1,0 +1,5 @@
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Delegate With Lambda\bin\Debug\Delegate With Lambda.exe.config
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Delegate With Lambda\bin\Debug\Delegate With Lambda.exe
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Delegate With Lambda\bin\Debug\Delegate With Lambda.pdb
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Delegate With Lambda\obj\Debug\Delegate With Lambda.exe
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Delegate With Lambda\obj\Debug\Delegate With Lambda.pdb

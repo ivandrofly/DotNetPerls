@@ -1,0 +1,1 @@
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\LINQ NameSpace\Linq ToArray\bin\Debug\Linq ToArray.exe.config

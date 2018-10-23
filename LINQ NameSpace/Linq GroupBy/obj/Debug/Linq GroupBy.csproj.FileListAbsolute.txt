@@ -1,0 +1,12 @@
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Examples\LINQ NameSpace\Linq GroupBy\bin\Debug\Linq GroupBy.exe.config
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Examples\LINQ NameSpace\Linq GroupBy\obj\Debug\Linq GroupBy.csprojResolveAssemblyReference.cache
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Examples\LINQ NameSpace\Linq GroupBy\bin\Debug\Linq GroupBy.exe
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Examples\LINQ NameSpace\Linq GroupBy\bin\Debug\Linq GroupBy.pdb
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Examples\LINQ NameSpace\Linq GroupBy\obj\Debug\Linq GroupBy.exe
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Examples\LINQ NameSpace\Linq GroupBy\obj\Debug\Linq GroupBy.pdb
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\LINQ NameSpace\Linq GroupBy\bin\Debug\Linq GroupBy.exe.config
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\LINQ NameSpace\Linq GroupBy\obj\Debug\Linq GroupBy.exe
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\LINQ NameSpace\Linq GroupBy\obj\Debug\Linq GroupBy.pdb
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\LINQ NameSpace\Linq GroupBy\bin\Debug\Linq GroupBy.exe
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\LINQ NameSpace\Linq GroupBy\bin\Debug\Linq GroupBy.pdb
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\LINQ NameSpace\Linq GroupBy\obj\Debug\Linq GroupBy.csprojResolveAssemblyReference.cache

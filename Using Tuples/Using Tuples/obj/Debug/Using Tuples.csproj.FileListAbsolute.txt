@@ -1,0 +1,13 @@
+C:\Users\Ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - DotNetPerls Examples\Using Tuples\Using Tuples\bin\Debug\Using Tuples.exe.config
+C:\Users\Ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\Using Tuples\Using Tuples\bin\Debug\Using Tuples.exe.config
+C:\Users\Ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\Using Tuples\Using Tuples\bin\Debug\Using Tuples.exe
+C:\Users\Ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\Using Tuples\Using Tuples\bin\Debug\Using Tuples.pdb
+C:\Users\Ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\Using Tuples\Using Tuples\obj\Debug\Using Tuples.csprojResolveAssemblyReference.cache
+C:\Users\Ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\Using Tuples\Using Tuples\obj\Debug\Using Tuples.exe
+C:\Users\Ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\Using Tuples\Using Tuples\obj\Debug\Using Tuples.pdb
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Using Tuples\Using Tuples\bin\Debug\Using Tuples.exe.config
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Using Tuples\Using Tuples\bin\Debug\Using Tuples.exe
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Using Tuples\Using Tuples\bin\Debug\Using Tuples.pdb
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Using Tuples\Using Tuples\obj\Debug\Using Tuples.csprojResolveAssemblyReference.cache
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Using Tuples\Using Tuples\obj\Debug\Using Tuples.exe
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Using Tuples\Using Tuples\obj\Debug\Using Tuples.pdb

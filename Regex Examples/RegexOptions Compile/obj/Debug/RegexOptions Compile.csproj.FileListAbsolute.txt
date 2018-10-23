@@ -1,0 +1,5 @@
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Regex Examples\RegexOptions Compile\bin\Debug\RegexOptions Compile.exe.config
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Regex Examples\RegexOptions Compile\bin\Debug\RegexOptions Compile.exe
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Regex Examples\RegexOptions Compile\bin\Debug\RegexOptions Compile.pdb
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Regex Examples\RegexOptions Compile\obj\Debug\RegexOptions Compile.exe
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Regex Examples\RegexOptions Compile\obj\Debug\RegexOptions Compile.pdb

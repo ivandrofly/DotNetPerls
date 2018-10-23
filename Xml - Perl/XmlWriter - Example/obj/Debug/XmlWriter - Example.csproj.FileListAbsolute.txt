@@ -1,0 +1,10 @@
+C:\Users\Ivandrofly-LK\Documents\Visual Studio 2012\Projects\C# - Tutorials\C# - DotNetPerls Examples\Xml - Perl\XmlWriter - Example\bin\Debug\XmlWriter - Example.exe.config
+C:\Users\Ivandrofly-LK\Documents\Visual Studio 2012\Projects\C# - Tutorials\C# - DotNetPerls Examples\Xml - Perl\XmlWriter - Example\bin\Debug\XmlWriter - Example.exe
+C:\Users\Ivandrofly-LK\Documents\Visual Studio 2012\Projects\C# - Tutorials\C# - DotNetPerls Examples\Xml - Perl\XmlWriter - Example\bin\Debug\XmlWriter - Example.pdb
+C:\Users\Ivandrofly-LK\Documents\Visual Studio 2012\Projects\C# - Tutorials\C# - DotNetPerls Examples\Xml - Perl\XmlWriter - Example\obj\Debug\XmlWriter - Example.exe
+C:\Users\Ivandrofly-LK\Documents\Visual Studio 2012\Projects\C# - Tutorials\C# - DotNetPerls Examples\Xml - Perl\XmlWriter - Example\obj\Debug\XmlWriter - Example.pdb
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Xml - Perl\XmlWriter - Example\bin\Debug\XmlWriter - Example.exe.config
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Xml - Perl\XmlWriter - Example\bin\Debug\XmlWriter - Example.exe
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Xml - Perl\XmlWriter - Example\bin\Debug\XmlWriter - Example.pdb
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Xml - Perl\XmlWriter - Example\obj\Debug\XmlWriter - Example.exe
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Xml - Perl\XmlWriter - Example\obj\Debug\XmlWriter - Example.pdb

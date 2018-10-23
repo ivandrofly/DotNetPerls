@@ -1,0 +1,7 @@
+C:\Users\Ivandrofly\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\Events Example\obj\Debug\Events Example.csprojResolveAssemblyReference.cache
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Events Example\bin\Debug\Events Example.exe.config
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Events Example\bin\Debug\Events Example.exe
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Events Example\bin\Debug\Events Example.pdb
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Events Example\obj\Debug\Events Example.csprojResolveAssemblyReference.cache
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Events Example\obj\Debug\Events Example.exe
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Events Example\obj\Debug\Events Example.pdb

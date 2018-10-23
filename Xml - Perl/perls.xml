@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<perls>
+  <article name="backgroundworker">
+    Example text.
+  </article>
+  <article name="threadpool">
+    More text.
+  </article>
+  <article></article>
+  <article>Final text.</article>
+</perls>

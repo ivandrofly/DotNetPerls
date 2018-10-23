@@ -1,0 +1,13 @@
+C:\Users\Ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\C# - DotNetPerls Examples\Operators Examples\Operators Examples\bin\Debug\Operators Examples.exe.config
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\Operators Examples\Operators Examples\bin\Debug\Operators Examples.exe.config
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\Operators Examples\Operators Examples\obj\Debug\Operators Examples.csprojResolveAssemblyReference.cache
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\Operators Examples\Operators Examples\bin\Debug\Operators Examples.exe
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\Operators Examples\Operators Examples\bin\Debug\Operators Examples.pdb
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\Operators Examples\Operators Examples\obj\Debug\Operators Examples.exe
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\Operators Examples\Operators Examples\obj\Debug\Operators Examples.pdb
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Operators Examples\Operators Examples\bin\Debug\Operators Examples.exe.config
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Operators Examples\Operators Examples\bin\Debug\Operators Examples.exe
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Operators Examples\Operators Examples\bin\Debug\Operators Examples.pdb
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Operators Examples\Operators Examples\obj\Debug\Operators Examples.csprojResolveAssemblyReference.cache
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Operators Examples\Operators Examples\obj\Debug\Operators Examples.exe
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Operators Examples\Operators Examples\obj\Debug\Operators Examples.pdb

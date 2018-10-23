@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlReader - Example", "Xml - Perl\XmlReader - Example.csproj", "{2BE87433-BFBF-4B87-AF2F-B103CBDD88EA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CF4DAEAB-6E8B-4C98-AF71-40AC91634C4E}"
+	ProjectSection(SolutionItems) = preProject
+		FamilyNames.xml = FamilyNames.xml
+		perls.xml = perls.xml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlTextReader  - Example", "XmlWriter -  Example\XmlTextReader  - Example.csproj", "{3A6B4A89-6F95-435B-BCBA-17E9DB792DCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlWriter - Example", "XmlWriter - Example\XmlWriter - Example.csproj", "{D70985CD-38C3-445F-91FE-B911E572F58D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlTextWriter - Example", "XmlTextWriter - Example\XmlTextWriter - Example.csproj", "{30E5F915-EF8B-4E7E-8CAE-E78790949867}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XElement - Example", "XElement - Example\XElement - Example.csproj", "{7D9C153F-9FD4-479C-A962-CA4C42AE1894}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xml Reader - Testing", "Xml Reader - Testing\Xml Reader - Testing.csproj", "{22B1F3A7-777F-4306-BABE-E5E58A042F81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlDocument - Example", "XmlDocument - Example\XmlDocument - Example.csproj", "{D45AF99A-D01F-438A-A417-917845691324}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BE87433-BFBF-4B87-AF2F-B103CBDD88EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE87433-BFBF-4B87-AF2F-B103CBDD88EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BE87433-BFBF-4B87-AF2F-B103CBDD88EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BE87433-BFBF-4B87-AF2F-B103CBDD88EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A6B4A89-6F95-435B-BCBA-17E9DB792DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A6B4A89-6F95-435B-BCBA-17E9DB792DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A6B4A89-6F95-435B-BCBA-17E9DB792DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A6B4A89-6F95-435B-BCBA-17E9DB792DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D70985CD-38C3-445F-91FE-B911E572F58D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D70985CD-38C3-445F-91FE-B911E572F58D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D70985CD-38C3-445F-91FE-B911E572F58D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D70985CD-38C3-445F-91FE-B911E572F58D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30E5F915-EF8B-4E7E-8CAE-E78790949867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30E5F915-EF8B-4E7E-8CAE-E78790949867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30E5F915-EF8B-4E7E-8CAE-E78790949867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30E5F915-EF8B-4E7E-8CAE-E78790949867}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D9C153F-9FD4-479C-A962-CA4C42AE1894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D9C153F-9FD4-479C-A962-CA4C42AE1894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D9C153F-9FD4-479C-A962-CA4C42AE1894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D9C153F-9FD4-479C-A962-CA4C42AE1894}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22B1F3A7-777F-4306-BABE-E5E58A042F81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22B1F3A7-777F-4306-BABE-E5E58A042F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22B1F3A7-777F-4306-BABE-E5E58A042F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22B1F3A7-777F-4306-BABE-E5E58A042F81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D45AF99A-D01F-438A-A417-917845691324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D45AF99A-D01F-438A-A417-917845691324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D45AF99A-D01F-438A-A417-917845691324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D45AF99A-D01F-438A-A417-917845691324}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

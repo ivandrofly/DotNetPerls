@@ -1,0 +1,5 @@
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Regex Examples\Regex IsMatch\bin\Debug\Regex IsMatch.exe.config
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Regex Examples\Regex IsMatch\bin\Debug\Regex IsMatch.exe
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Regex Examples\Regex IsMatch\bin\Debug\Regex IsMatch.pdb
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Regex Examples\Regex IsMatch\obj\Debug\Regex IsMatch.exe
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Regex Examples\Regex IsMatch\obj\Debug\Regex IsMatch.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ivandrofly-LK\Documents\Visual Studio 2012\Projects\C#Tutorials\C# - Kudbenkat\Delegates\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\Ivandrofly-LK\Documents\Visual Studio 2012\Projects\C#Tutorials\C# - Kudbenkat\Delegates\Delegates\bin\Debug\Delegates.exe
+C:\Users\Ivandrofly-LK\Documents\Visual Studio 2012\Projects\C#Tutorials\C# - Kudbenkat\Delegates\Delegates\bin\Debug\Delegates.pdb
+C:\Users\Ivandrofly-LK\Documents\Visual Studio 2012\Projects\C#Tutorials\C# - Kudbenkat\Delegates\Delegates\obj\Debug\Delegates.exe
+C:\Users\Ivandrofly-LK\Documents\Visual Studio 2012\Projects\C#Tutorials\C# - Kudbenkat\Delegates\Delegates\obj\Debug\Delegates.pdb
+C:\Users\Ivandrofly-LK\Documents\Visual Studio 2012\Projects\C#Tutorials\C# - Kudbenkat\Delegates\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Delegates\bin\Debug\Delegates.exe
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Delegates\bin\Debug\Delegates.pdb
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Delegates\obj\Debug\Delegates.exe
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Delegates\obj\Debug\Delegates.pdb

@@ -1,0 +1,5 @@
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Xml - Perl\XmlTextWriter - Example\bin\Debug\XmlTextWriter - Example.exe.config
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Xml - Perl\XmlTextWriter - Example\bin\Debug\XmlTextWriter - Example.exe
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Xml - Perl\XmlTextWriter - Example\bin\Debug\XmlTextWriter - Example.pdb
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Xml - Perl\XmlTextWriter - Example\obj\Debug\XmlTextWriter - Example.exe
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Xml - Perl\XmlTextWriter - Example\obj\Debug\XmlTextWriter - Example.pdb

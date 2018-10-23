@@ -1,0 +1,6 @@
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\LINQ NameSpace\Linq Join\bin\Debug\Linq Join.exe.config
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\LINQ NameSpace\Linq Join\bin\Debug\Linq Join.exe
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\LINQ NameSpace\Linq Join\bin\Debug\Linq Join.pdb
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\LINQ NameSpace\Linq Join\obj\Debug\Linq Join.csprojResolveAssemblyReference.cache
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\LINQ NameSpace\Linq Join\obj\Debug\Linq Join.exe
+C:\Users\ivandro\Documents\Visual Studio 2013\Projects\C# - Tutorials\DotNetPerls Samples\LINQ NameSpace\Linq Join\obj\Debug\Linq Join.pdb

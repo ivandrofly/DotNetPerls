@@ -1,0 +1,5 @@
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Xml - Perl\Xml - Perl\bin\Debug\Xml - Perl.exe.config
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Xml - Perl\Xml - Perl\bin\Debug\Xml - Perl.exe
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Xml - Perl\Xml - Perl\bin\Debug\Xml - Perl.pdb
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Xml - Perl\Xml - Perl\obj\Debug\Xml - Perl.exe
+C:\Users\ivandrofly\Documents\Visual Studio 2015\Projects\C# - Tutorials\DotNetPerls Samples\Xml - Perl\Xml - Perl\obj\Debug\Xml - Perl.pdb
